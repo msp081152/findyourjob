@@ -1,2 +1,8 @@
 # findyourjob
-учебный проект Glo Academy
+Учебный проект Glo Academy
+Проект выполнил: Сергей Мал
+
+## используются технологии
+- HTML
+- CSS
+- Bootstrap v5
